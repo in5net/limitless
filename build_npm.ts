@@ -30,11 +30,11 @@ await build({
     name: '@in5net/limitless',
     version: Deno.args[0],
     description: 'A TypeScript library',
-    author: 'in5dev',
+    author: 'in5net',
     license: 'MIT',
     repository: {
       type: 'git',
-      url: 'git+https://github.com/in5dev/limitless.git'
+      url: 'git+https://github.com/in5net/limitless.git'
     }
   }
 });
